@@ -12,7 +12,7 @@ This repository contains all the tasks which I did during my Encryptix C++ inter
 
 4) [**To-Do List**](https://github.com/Varuni387/ENCYRPTIX/blob/main/4_todolist.cpp)
 
-5) [**Image Processing Tool**](https://github.com/Varuni387/ENCYRPTIX/blob/main/5_imageProcessingTool.cpp)
+5) [**Image Processing Tool**](https://github.com/Varuni387/ENCYRPTIX/blob/main/5_imageProcessingtool.cpp)
 ## Description
 
 1) **Number Guessing Game**
