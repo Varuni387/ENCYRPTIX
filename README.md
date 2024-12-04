@@ -12,7 +12,7 @@ This repository contains all the tasks which I did during my Encryptix C++ inter
 
 4) [**To-Do List**](https://github.com/Varuni387/ENCYRPTIX/blob/main/4_todolist.cpp)
 
-
+5) [**Image Processing Tool**](https://github.com/Varuni387/ENCYRPTIX/blob/main/5_imageProcessingTool.cpp)
 ## Description
 
 1) **Number Guessing Game**
@@ -48,6 +48,16 @@ This repository contains all the tasks which I did during my Encryptix C++ inter
       - *Mark Task as Completed*: Allow users to mark tasks as completed
       - *Remove Task*: Provide an option to remove tasks from list
      
+5) **Image Processing Tool**
 
+    A tool that allows users to perform various image processing operations like resizing, cropping, and filtering.
+
+      - *Load Image*: Allow users to load an image
+      - *Display Image*: Display the loaded image in the application.
+      - *Image Filters*: Implement basic image filters like grayscale, blur, and sharpen.
+      - *Color Adjustment*: Allow users to adjust image colors, brightness, and contrast.
+      - *Crop and Resize*: Provide options to crop and resize the image.
+      - *Image Saving*: Enable users to save the processed image.
+      - *User Interface*: Design a user-friendly interface for easy interaction
   
 ###### Copyright (c) 2024 Varuni Desai
